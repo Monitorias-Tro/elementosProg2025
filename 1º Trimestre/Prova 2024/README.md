@@ -1,0 +1,3 @@
+O enunciado pedia para transformar os caracteres maiúsculos em minúsculos, e vice-versa, em uma string digitada pelo usuário. (Eu acho...) Os enunciados das provas do Zucco normalmente estão em uma folha que fica com ele. Por isso não anexei junto.
+
+No meu ano (2024), o código funcionar valia 4 MÍSEROS PONTOS, então comentem praticamente cada linha, cuidem da indentação, e principalmente, leiam a folha, por que está escrito exatamente o que ele pede.
