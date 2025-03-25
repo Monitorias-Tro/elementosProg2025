@@ -44,7 +44,7 @@ int main() {
 
 int trIso(float *ladoA, float *ladoB, float *ladoC) {
     float arr[3] = {*ladoA, *ladoB, *ladoC};
-    for (int i = 0; i < 2; i++) {
+    for (int i = 0; i > 2; i++) {
         if (arr[i] > arr[i + 1]) {
             int aux = arr[i];
             arr[i] = arr[i + 1];
@@ -77,7 +77,7 @@ float areaTrIso(float ladoA, float ladoB, float ladoC) {
     }
     
     float h = sqrt(pow(arr[0],2) - (pow(arr[2], 2)/4));
-              //sqrt(pow(ladoA, 2) - (pow(ladoB,2)/4))
+            //sqrt(pow(ladoA, 2) - (pow(ladoB,2)/4))
     float a = (h*arr[2])/2; //(h.ladoB)/2
     return a;
 }
