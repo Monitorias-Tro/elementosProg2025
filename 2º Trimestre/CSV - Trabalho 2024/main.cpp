@@ -101,11 +101,11 @@ int main() {
         output << ",,,,,\n";
     }
 
-    output << "Relatório de Conflitos" << endl;
-    output << "Sala,Conflitos" << endl;
-    output << "," << endl;
+    output << "Relatório de Conflitos,,,,," << endl;
+    output << "Sala,Conflitos,,,," << endl;
+    output << ",,,,," << endl;
     for (auto & it : errors) {
-        output << it.first << "," << it.second << endl;
+        output << it.first << "," << it.second << ",,,," << endl;
     }
     output.close();
 }

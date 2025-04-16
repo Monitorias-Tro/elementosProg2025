@@ -1,4 +1,4 @@
-1 Tro Geral,,,,,
+1 Tro Gera,,,,,
 ,,,,,
 ,Segunda,Terça,Quarta,Quinta,Sexta
 07:30,TROANL - 4324,,,TROANL - 4312,
@@ -13,7 +13,7 @@
 16:50,TROANL - 4323,TROANL - 4323,,,
 17:40,,TROANL - 4323,,,
 ,,,,,
-10 Acionamentos,,,,,
+10 Acionamento,,,,,
 ,,,,,
 ,Segunda,Terça,Quarta,Quinta,Sexta
 07:30,,,,,
@@ -28,7 +28,7 @@
 16:50,,,,,
 17:40,,,,,
 ,,,,,
-11 Comunicacoes,,,,,
+11 Comunicacoe,,,,,
 ,,,,,
 ,Segunda,Terça,Quarta,Quinta,Sexta
 07:30,,SISCOM - 4312,SISCOM - 4422,,SISCOM - 4311
@@ -43,7 +43,7 @@
 16:50,,SISCOM - 4422,,SISCOM - 4411,SISCOM - 4323
 17:40,,SISCOM - 4422,,SISCOM - 4411,SISCOM - 4323
 ,,,,,
-13 Potencia,,,,,
+13 Potenci,,,,,
 ,,,,,
 ,Segunda,Terça,Quarta,Quinta,Sexta
 07:30,,,,,
@@ -58,7 +58,7 @@
 16:50,,,,,
 17:40,,,,,
 ,,,,,
-14 Automacao,,,,,
+14 Automaca,,,,,
 ,,,,,
 ,Segunda,Terça,Quarta,Quinta,Sexta
 07:30,,,,,
@@ -73,7 +73,7 @@
 16:50,,AUTOM - 4411,,,
 17:40,,,,,
 ,,,,,
-2 Tro Geral,,,,,
+2 Tro Gera,,,,,
 ,,,,,
 ,Segunda,Terça,Quarta,Quinta,Sexta
 07:30,,TROFUN - 4223,TROFUN - 4211,,
@@ -88,7 +88,7 @@
 16:50,TROFUN - 4223,INTRO  - 4124,,TROFUN - 4223,
 17:40,TROFUN - 4223,,,TROFUN - 4223,
 ,,,,,
-3 Tro Geral,,,,,
+3 Tro Gera,,,,,
 ,,,,,
 ,Segunda,Terça,Quarta,Quinta,Sexta
 07:30,,DESEN - 4224,,,
@@ -103,7 +103,7 @@
 16:50,,DESEN - 4123,,,
 17:40,,DESEN - 4123,,,
 ,,,,,
-6 Proc. Sinais,,,,,
+6 Proc. Sinai,,,,,
 ,,,,,
 ,Segunda,Terça,Quarta,Quinta,Sexta
 07:30,,,,SINAIS - 4423,DIGIT - 4212
@@ -118,7 +118,7 @@
 16:50,,DIGIT - 4224,,,DIGIT - 4211 / SINAIS - 4411
 17:40,,DIGIT - 4224,,,DIGIT - 4211 / SINAIS - 4411
 ,,,,,
-9 Micros,,,,,
+9 Micro,,,,,
 ,,,,,
 ,Segunda,Terça,Quarta,Quinta,Sexta
 07:30,SIST M - 4422,SIST M - 4411,SIST M - 4423,,
@@ -133,7 +133,7 @@
 16:50,,,,SIST M - 4311 / SIST M - 4312,
 17:40,,,,SIST M - 4311,
 ,,,,,
-INFO. 7,,,,,
+INFO. ,,,,,
 ,,,,,
 ,Segunda,Terça,Quarta,Quinta,Sexta
 07:30,,,,,PROJ INIC CIENT - 4224
@@ -149,9 +149,9 @@ INFO. 7,,,,,
 17:40,ELEM - 4312,,,,
 ,,,,,
 Relatório de Conflitos,,,,,
-Sala,Conflitos
-,
-2 Tro Geral,8
-6 Proc. Sinais,4
-9 Micros,5
-INFO. 7,1
+Sala,Conflitos,,,,
+,,,,,
+2 Tro Gera,8,,,,
+6 Proc. Sinai,4,,,,
+9 Micro,5,,,,
+INFO. ,1,,,,
